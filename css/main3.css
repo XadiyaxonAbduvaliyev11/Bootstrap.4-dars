@@ -1,0 +1,10 @@
+.bg-gradient{
+    background: linear-gradient(90deg, deepskyblue, greenyellow);
+}
+.center{
+    margin-left: 450px;
+    margin-top: 50px;
+}
+.radius{
+    border-radius: 15px;
+}

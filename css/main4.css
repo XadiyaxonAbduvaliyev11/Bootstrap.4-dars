@@ -1,0 +1,33 @@
+.class{
+    border: 1px solid transparent;
+    width: 300px;
+    height: 400px;
+    background-color: white;
+    border-radius:  12px;
+}
+.class1{
+    border: 1px solid transparent;
+    background-color: white;
+    width: 300px;
+    height: 70px;
+    box-shadow: 0 0 20px darkgrey;
+    border-radius:  12px;
+}
+.class2{
+    border: 1px solid transparent;
+    background-color: white;
+    width: 200px;
+    height: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    box-shadow: 0 0 20px darkgrey;
+}
+.center{
+    margin-top: 10px;
+}
+.margin{
+    vertical-align: middle;
+}
+.margin1{
+
+}
